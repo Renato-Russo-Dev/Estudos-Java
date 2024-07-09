@@ -1,1 +1,1 @@
-Alguns dos meus estudos sobre como funciona hierarquia e herança no Java.
+Alguns dos meus estudos sobre a linguagem Java.
